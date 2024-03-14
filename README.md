@@ -13,6 +13,6 @@ Here are some of my projects that I maintain or contribute to:
 
 ### Current Work
 
-- [NIH NIDDK Administrative Supplement](https://reporter.nih.gov/search/pTFKy-61J0i-fTBjEGBk5g/project-details/10711717) at Albert Einstein College of Medicine/Montefiore Health Systems, studying engagement disparities within Diabetes Prevention Programs, while investigating the impact of neighborhood vulnerability on referrals and engagement, and researching physician referral disparities.
+- [NIH NIDDK Administrative Supplement](https://reporter.nih.gov/project-details/10711717) at Albert Einstein College of Medicine/Montefiore Health Systems, studying engagement disparities within Diabetes Prevention Programs, while investigating the impact of neighborhood vulnerability on referrals and engagement, and researching physician referral disparities. (Grant DK121896-04S1)
 
 Please feel to reach out [by email](mailto:katndiaz@gmail.com)! You can read more about me on my [Linkedin](https://www.linkedin.com/in/katelyndiaz/).
