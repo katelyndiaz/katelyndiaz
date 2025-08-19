@@ -1,4 +1,4 @@
-Hello, my name is Katelyn Diaz (she/her) and I am a recent graduate of Smith College (c/o 23) with a degree in Statistical & Data Sciences (SDS) and Biochemistry.
+Hello, my name is Katelyn Diaz (she/her) and I am a recent graduate of Smith College (c/o 23) with a degree in Statistical & Data Sciences (SDS) and Biochemistry, pursuing a masters in Biomedical Informatics at NYU Vilcek.
 
 -----------
 
@@ -13,6 +13,7 @@ Here are some of my projects that I maintain or contribute to:
 
 ### Current Work
 
-- [NIH NIDDK Administrative Supplement](https://reporter.nih.gov/project-details/10711717) at Albert Einstein College of Medicine/Montefiore Health Systems, studying engagement disparities within Diabetes Prevention Programs, while investigating the impact of neighborhood vulnerability on referrals and engagement, and researching physician referral disparities. (Grant DK121896-04S1)
+- Data Analyst @ [Albert Einstein College of Medicine/Montefiore Health Systems](https://einsteinmed.edu/departments/family-social-medicine)
+- MS Biomedical Informatics student @ [NYU Vilcek Institute, NYU Grossman School of Medicine](https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/ms-biomedical-informatics)
 
 Please feel to reach out [by email](mailto:katndiaz@gmail.com)! You can read more about me on my [Linkedin](https://www.linkedin.com/in/katelyndiaz/).
