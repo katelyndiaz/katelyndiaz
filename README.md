@@ -13,7 +13,7 @@ Here are some of my projects that I maintain or contribute to:
 
 ### Current Work
 
-- Data Analyst @ [Albert Einstein College of Medicine/Montefiore Health Systems](https://einsteinmed.edu/departments/family-social-medicine)
+- Senior Data Analyst @ [Albert Einstein College of Medicine/Montefiore Health Systems](https://einsteinmed.edu/departments/family-social-medicine)
 - MS Biomedical Informatics student @ [NYU Vilcek Institute, NYU Grossman School of Medicine](https://med.nyu.edu/research/vilcek-institute-graduate-biomedical-sciences/ms-biomedical-informatics)
 
 Please feel to reach out [by email](mailto:katndiaz@gmail.com)! You can read more about me on my [Linkedin](https://www.linkedin.com/in/katelyndiaz/).
